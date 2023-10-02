@@ -1,0 +1,14 @@
+project:
+  type: book
+
+book:
+  title: "Quarto problem"
+  author: "Rob J Hyndman"
+  chapters:
+    - "index.qmd"
+
+number-sections: true
+bibliography: weird.bib
+biblio-style: authoryear-comp
+
+format: html
